@@ -39,6 +39,42 @@
         <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-503-DB4436-labelson">
       <IconStyle>
         <color>ff3644db</color>
@@ -230,9 +266,14 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>[DE] Berlin</name>
-        <description><![CDATA[Million Mask March Berlin, Germany<br>Facebook: https://www.facebook.com/events/1511822455603316/<br>Location and time: Pariser Platz 1, Brandenburger Tor, Berlin. 18:00 GMT +1<br>Hosted by: Anonymous Berlin & Anonymous]]></description>
+        <name>[DE] Berlin (2019)</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/GARAGRiqT1gO1cNvJgPmsXkr8pcCapNcQDEs37QHd4pAJFgjaMpJj9auokY8uHccm4IKB0rkhzFoyWOihQE65woyBtvNNPgRXKhYciNWq-jGAPFmibgT14JsRBwKpx6xncbw" height="200" width="auto" /><br><br>Million Mask March Berlin, Germany<br>Time ► November 5. 6 PM (CET)<br>Location ► Pariser Platz 1, Brandenburg Gate, Berlin<br><br>Eventsite ►<br>www.facebook.com/events/339740719911414 (2019)<br>www.facebook.com/events/497912260715086 (2018)<br>Hosted by: Anonymous, Anonymous Berlin, Millionmaskmarch]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/GARAGRiqT1gO1cNvJgPmsXkr8pcCapNcQDEs37QHd4pAJFgjaMpJj9auokY8uHccm4IKB0rkhzFoyWOihQE65woyBtvNNPgRXKhYciNWq-jGAPFmibgT14JsRBwKpx6xncbw</value>
+          </Data>
+        </ExtendedData>
         <Point>
           <coordinates>
             13.378838,52.516364,0
@@ -270,6 +311,21 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>[FR] Bretagne, France (2019)</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/oRDtMsLhsufh1WNNVJpe5O6-cdV9ASJsFVaipdkyBZ3lGaUuh9DN2vaQNyTzLfO6IEC2Y-5fE2-qrTfF-PxQO6KTg3oUOT0A5_qIZORQROLCM3LM977WXqDB_d1VmVJ0oyDHww" height="200" width="auto" /><br><br>Million Mask March France<br>Time ► November 5. 00:01 AM - 23:57 PM (CET)<br>Location ► Bretagne, France<br><br>Eventsite ►<br>www.facebook.com/events/346269329472530 (2019)<br>Hosted by: Anonymous Finistere]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/oRDtMsLhsufh1WNNVJpe5O6-cdV9ASJsFVaipdkyBZ3lGaUuh9DN2vaQNyTzLfO6IEC2Y-5fE2-qrTfF-PxQO6KTg3oUOT0A5_qIZORQROLCM3LM977WXqDB_d1VmVJ0oyDHww</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.9326435,48.2020471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>[FR] Paris</name>
         <description><![CDATA[Million Mask March Paris, France<br>Location and time: Paris, devant l'Assemble Nationale 18h<br>Hosted by: Anonymous]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
@@ -300,9 +356,14 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>[NL] Amsterdam</name>
-        <description><![CDATA[Million Mask March Amsterdam, The Netherlands<br>Facebook: https://www.facebook.com/events/1307305486045800/<br>Location and time: Dam Square, Amsterdam. 13:00 GMT +1<br>Hosted by: Anonymous Netherlands Operations]]></description>
+        <name>[NL] Amsterdam (2019)</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/YkzmDuSrpKr5Tx3RWO9EKpMJAIn0JbxYDutZLTJ1rStMP5mwxqL3mZtj61FnmEO7-tU9IIWNTFNyqitDh47KF2rPjOkkDH51zmeZUyTLOxbwGNl8mKTKUqIBGrNLJpWlJ8Wb" height="200" width="auto" /><br><br>Million Mask March Amsterdam, Netherlands<br>Time ► November 5. 1 PM (CET)<br>Location ► Dam Square, Amsterdam<br><br>Eventsite ►<br>www.facebook.com/events/261101834751276 (2019)<br>www.facebook.com/events/1307305486045800 (2018)<br>Hosted by: Anonymous Netherlands Operations]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/YkzmDuSrpKr5Tx3RWO9EKpMJAIn0JbxYDutZLTJ1rStMP5mwxqL3mZtj61FnmEO7-tU9IIWNTFNyqitDh47KF2rPjOkkDH51zmeZUyTLOxbwGNl8mKTKUqIBGrNLJpWlJ8Wb</value>
+          </Data>
+        </ExtendedData>
         <Point>
           <coordinates>
             4.892503,52.373131,0
@@ -390,9 +451,14 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>[US] Akron, Ohio</name>
-        <description><![CDATA[Million Mask March Akron, Ohio<br>Facebook: https://www.facebook.com/events/1656106097804147/<br>Location and time: Akron Metro Bus - R.t.a. 12 PM - 9 PM EST<br>Hosted by: Anonymous Akron Ohio]]></description>
+        <name>[US] Akron, Ohio (2019)</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/9tCIWX8h0-bHNryR7FPBrkTPTUdZvehiaWsXwakpUPSMZ2Ol9F_sjL7weaWdXnCzSpUm1xyNrNEypD4vqxAJVX_YeO0HtWlfZVZ8Dc5X49MslU8mD4GtuIBmWkKvwglf0GpP" height="200" width="auto" /><br><br>Million Mask March Akron, Ohio<br>Time ► November 5. 12 PM – 11/6/2019 9 PM (EST)<br>Location ► 631 S.Broadway, Akron 44308<br><br>Eventsite ►<br>www.facebook.com/events/291557551454371 (2019)<br>www.facebook.com/events/1656106097804147 (2018)<br>Hosted by: Anonymous Akron Ohio]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/9tCIWX8h0-bHNryR7FPBrkTPTUdZvehiaWsXwakpUPSMZ2Ol9F_sjL7weaWdXnCzSpUm1xyNrNEypD4vqxAJVX_YeO0HtWlfZVZ8Dc5X49MslU8mD4GtuIBmWkKvwglf0GpP</value>
+          </Data>
+        </ExtendedData>
         <Point>
           <coordinates>
             -81.539987,41.049204,0
@@ -500,9 +566,14 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>[US] Washington DC</name>
-        <description><![CDATA[Million Mask March Washington DC<br>Facebook: https://www.facebook.com/events/2105175676183407/<br>Location and time: McPherson Sq NW. 13:00 EST<br>Hosted by: The Anonymous Legion]]></description>
+        <name>[US] Washington DC (2019)</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/Pt3sSgXojWWAMOLZZmzjaye0ywOMFMB2wrVHewoKu9X9u3xcYuySSr9Fj6f_uAE_BgNlWK588gzhiwvDiV9ZLV3Fteerx71FBdaROs_jp5gZnLmM501R0orDBuxmLbxoB4FLFA" height="200" width="auto" /><br><br>Million Mask March Washington DC<br>Time ► November 5. 1 PM (EST)<br>Location ► Washington Monument, Washington DC<br><br>Eventsite ►<br>www.facebook.com/events/2105175676183407 (2019)<br>www.facebook.com/events/1307305486045800 (2018)<br>Hosted by: The Anonymous Legion]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/Pt3sSgXojWWAMOLZZmzjaye0ywOMFMB2wrVHewoKu9X9u3xcYuySSr9Fj6f_uAE_BgNlWK588gzhiwvDiV9ZLV3Fteerx71FBdaROs_jp5gZnLmM501R0orDBuxmLbxoB4FLFA</value>
+          </Data>
+        </ExtendedData>
         <Point>
           <coordinates>
             -77.034113,38.901966,0
