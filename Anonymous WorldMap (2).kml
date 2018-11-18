@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Anonymous WorldMap</name>
+    <description><![CDATA[Anonymous Operation MAP<br>eMail: map@anonymous.support<br>Web: http://anonymous.support/map]]></description>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-DB4436-labelson">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>#OpSafeWinter</name>
+      <Placemark>
+        <name>Anonymous</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/iwDACjuh63MC2OpMh_GFGbl8w8GMqRiUPh42jYFQ218qq9Mgz3GgjMM7Ds3veVFawoe_uiK0v8RLyydca5Pb9OCjWP3MLH0nfomNVUorNEbSRQTMt0sKq6fMXuuj2C1qWos5" height="200" width="auto" /><br><br>Web ► http://anonymous.support/opsafewinter<br>Web ► https://facebook.com/opsafewinter.event<br>Mail ► info@anonymous.support]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/iwDACjuh63MC2OpMh_GFGbl8w8GMqRiUPh42jYFQ218qq9Mgz3GgjMM7Ds3veVFawoe_uiK0v8RLyydca5Pb9OCjWP3MLH0nfomNVUorNEbSRQTMt0sKq6fMXuuj2C1qWos5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.66666666666663,-72.5833333333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[DE] Berlin</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=gqgug2LBt48"><img src="https://img.youtube.com/vi/gqgug2LBt48/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/gqgug2LBt48">https://www.youtube.com/embed/gqgug2LBt48</a><br><br>Location ► 24.12.2018 12:00 Uhr, Weltzeituhr, Alexanderplatz in Berlin<br><br>MORE ► http://anonymous.support/opsafewinter/berlin<br>VIDEO ► https://youtu.be/1GPv_ck2t8A<br><br>Eventseite:<br>www.facebook.com/events/497912260715086 (2018)]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/gqgug2LBt48</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.4129523,52.5220023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[UK] Sheffield</name>
+        <description><![CDATA[Location ► DD.MM.YYYY HH:MM PM, City, United Kingdom<br><br>MORE ► http://anonymous.support/opsafewinter<br>LIVESTREAM ► ---<br><br>Eventsite:<br>www.facebook.com/opsafewintersheffield (2018)]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.470085,53.381129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[UK] United Kingdom</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=3Pfuv8glk64"><img src="https://img.youtube.com/vi/3Pfuv8glk64/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/3Pfuv8glk64">https://www.youtube.com/embed/3Pfuv8glk64</a><br><br>Location ► DD.MM.YYYY HH:MM PM, City, United Kingdom<br><br>MORE ► http://anonymous.support/opsafewinter<br>LIVESTREAM ► ---<br><br>Eventsite:<br>www.opsafewinter.org (2018)]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/3Pfuv8glk64</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.4957385,53.7244371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[US] Auburn</name>
+        <description><![CDATA[Location ► 10.11.2018 12:00 PM, Auburn<br><br>MORE ► http://anonymous.support/opsafewinter<br>LIVESTREAM ► ---<br><br>Eventsite:<br>www.facebook.com/events/2685198711706126 (2018)]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -85.4807787,32.5977567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[US] Camden</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/pwFl6g8pIcfi29laHMDX1isxg8PCrjnwS21N2-uoHSTSeLN6PqpXxkl6EZMlCXosrg9Kw7w7KHHwNK6mVarmcIinXCmVextlzT7npgcF7iyqxhtYXe2q5GeKMmFG_iMwonuM" height="200" width="auto" /><br><br>Location ► 15.12.2018 12:00 PM, Pine Street / Walnut Street (New Jersey)<br><br>MORE ► http://anonymous.support/opsafewinter<br>LIVESTREAM ► ---<br><br>Eventsite:<br>www.facebook.com/events/2164105743862480 (2018)]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/pwFl6g8pIcfi29laHMDX1isxg8PCrjnwS21N2-uoHSTSeLN6PqpXxkl6EZMlCXosrg9Kw7w7KHHwNK6mVarmcIinXCmVextlzT7npgcF7iyqxhtYXe2q5GeKMmFG_iMwonuM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.1062406,39.9369312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[US] Chicago</name>
+        <description><![CDATA[Location ► 1/5/2019 12:00 PM, Federal Center and Plaza, Chicago, Illinois<br><br>MORE ► http://anonymous.support/opsafewinter<br>LIVESTREAM ► ---<br><br>Eventsite:<br>www.facebook.com/events/298188891032062 (2019)]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -87.6302134,41.8786112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[US] Erie</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/acS1FF8q5JRxPBf0yKuRKjvyjoV2NY5pXHGpKcUejMUaoEZtXf0RY-X6Odb7UpAwnYgEhAtM48k3N05pVYyrGpNzwqI0q8zVQRCe1mIVwBImGU4LWxaRhhkIoTEF3wtqqShVEg" height="200" width="auto" /><br><br>TIME ► 16.11.2018 12:00 PM - 04:00 AM (EST)<br>TIME ► 17.11.2018 15:00 PM - 18:00 PM (EST)<br>Location ► Perry Square, Erie (Pennsylvania)<br><br>MORE ► http://anonymous.support/opsafewinter<br>LIVESTREAM ► ---<br><br>Eventsite:<br>www.facebook.com/events/302140903705238 (2018)<br>www.facebook.com/events/275232306427546 (2018)]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/acS1FF8q5JRxPBf0yKuRKjvyjoV2NY5pXHGpKcUejMUaoEZtXf0RY-X6Odb7UpAwnYgEhAtM48k3N05pVYyrGpNzwqI0q8zVQRCe1mIVwBImGU4LWxaRhhkIoTEF3wtqqShVEg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.0852696,42.1293949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[US] San Francisco</name>
+        <description><![CDATA[Location ► 3.11.2018 12:00 PM, Civic Center, San Francisco<br><br>MORE ► http://anonymous.support/opsafewinter<br>LIVESTREAM ► ---<br><br>Eventsite:<br>www.facebook.com/events/260021234768890 (2018)]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4156804,37.7815088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>#MillionMaskMarch</name>
+      <Placemark>
+        <name>[AU] Brisbane</name>
+        <description><![CDATA[Million Mask March Brisbane, Australia<br>Facebook: https://www.facebook.com/events/585696368531549/<br>Location and time: Emma Miller Place Roma Street. 3 PM - 6 PM UTC+10<br>Hosted by: Studio 9001]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            153.021768,-27.467126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[AU] Melbourne</name>
+        <description><![CDATA[Million Mask March Melbourne, Australia<br>Facebook: https://www.facebook.com/events/335763277197035/<br>Location and time: State Library of Victoria. 16:00<br>Hosted by: Anonymous Victoria - Australia                  Million Mask March Melbourne (Secondary), Australia<br>Facebook: https://www.facebook.com/events/349507158956237/<br>Location and time: State Library of Victoria. 16:00<br>Hosted by: Anonymous Bendigo Australia]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            144.96519,-37.809809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[BE] Brüssel</name>
+        <description><![CDATA[Million Mask March Brussel, Belgium<br>Facebook: https://www.facebook.com/events/1738054669538176/<br>Location and time: Muntplein, Place de la Monnaie. 14:00 GMT +1<br>Hosted by: Anonymous Belgium]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.353215,50.849692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[BE] Namur</name>
+        <description><![CDATA[Million Mask March Namen / Namur, Belgium<br>Facebook: https://www.facebook.com/events/1667446640219416/<br>Location and time: Place d'Armes Ã Namur. 2 PM - 5 PM UTC+01<br>Hosted by: Anonymous Wallonie]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.868829,50.462552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[CA] Vancouver</name>
+        <description><![CDATA[Million Mask March Vancouver, Canada<br>Facebook: https://www.facebook.com/events/324885018303215/<br>Location and time: Vancouver Art Gallery 750 Hornby Street, 11:41 PM - 2:41 AM PST<br>Hosted by: Million Mask March 2018]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.120472,49.282961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[CH] Bern</name>
+        <description><![CDATA[Million Mask March Switzerland<br>Facebook: https://www.facebook.com/events/1841862382500409/<br>Location and time: Schweizer Parlament, Bundesplatz 3, 3003 Bern. 5:00 PM â€“ 9:00 PM UTC+01<br>Hosted by: Million Mask March World (and 2 other pages)]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            7.444731,46.947081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[DE] Berlin</name>
+        <description><![CDATA[Million Mask March Berlin, Germany<br>Facebook: https://www.facebook.com/events/1511822455603316/<br>Location and time: Pariser Platz 1, Brandenburger Tor, Berlin. 18:00 GMT +1<br>Hosted by: Anonymous Berlin & Anonymous]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            13.378838,52.516364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[DE] München</name>
+        <description><![CDATA[Million Mask March München, Germany<br>Facebook: https://www.facebook.com/events/2109358472637427/<br>Location and time: Odeonsplatz. 11:00 AM<br>Hosted by: Independent Anons Hamburg (and 11 other pages)]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            11.577524,48.14339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[DK] Kopenhagen</name>
+        <description><![CDATA[Million Mask March Kopenhagen, Denmark<br>Facebook: https://www.facebook.com/events/128552291190458/<br>Location and time: RÃdhuspladsen. 3 PM - 6 PM UTC+01<br>Hosted by: Iraner Sara Honniebi]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.569128,55.675914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[ES] Barcelona</name>
+        <description><![CDATA[Million Mask March Barcelona, Spain<br>Twitter: http://twitter.com/an0nc4t4l0ni4<br>Location and time: Barcelona - Font de Canaletes, Ramble. 18.00<br>Hosted by: Anonymous Catalonia]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            2.170183,41.385134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[FR] Paris</name>
+        <description><![CDATA[Million Mask March Paris, France<br>Location and time: Paris, devant l'Assemble Nationale 18h<br>Hosted by: Anonymous]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            2.319225,48.861053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[HU] Hungary</name>
+        <description><![CDATA[Million Mask March Hungary<br>Facebook: https://www.facebook.com/events/1093852057440484/<br>Location and time: (Location unknown, Hungary, visit event page). 17:00 GMT +1<br>Hosted by: United Anons Hungary - Magyar Anonok]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.503304,47.162494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[IT] Milano</name>
+        <description><![CDATA[Million Mask March Milan / Milano, Italy<br>Facebook: https://www.facebook.com/events/330581334182648/<br>Location and time: Piazza del Duomo, 20123 Milano MI. 18:00-21:00 UTC+01<br>Hosted by: Million Mask March Italia]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            9.189987,45.463735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[NL] Amsterdam</name>
+        <description><![CDATA[Million Mask March Amsterdam, The Netherlands<br>Facebook: https://www.facebook.com/events/1307305486045800/<br>Location and time: Dam Square, Amsterdam. 13:00 GMT +1<br>Hosted by: Anonymous Netherlands Operations]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.892503,52.373131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[NO] Oslo</name>
+        <description><![CDATA[Million Mask March Oslo, Norway<br>Facebook: https://www.facebook.com/events/291986064949293/<br>Location and time: Oslo. 18:00<br>Hosted by: Real Anonymous Norway]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            10.752245,59.913869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[NP] Kathmandu</name>
+        <description><![CDATA[Million Mask March Kathmandu, Nepal<br>Facebook: https://www.facebook.com/events/371557760033742/<br>Location and time: Basantapur. 15:00<br>Hosted by: Anonymous Nepal]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            85.306513,27.704222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[PH] Quezon City</name>
+        <description><![CDATA[Million Mask March Quezon City, Philippines<br>Facebook: https://www.facebook.com/events/2002535773370542/<br>Location and time: 1800 Quezon City. 06:00 UTC+08<br>Hosted by: Anonymous Philippines<br> <br>Million Mask March Quezon City, Philippines (Secondary Location)<br>Facebook: https://www.facebook.com/events/244111946292379/<br>Location and time: EDSA Shrine, EDSA Corner Ortigas Avenue, Quezon City. 10:00 UTC+08<br>Hosted by: Anonymous Valenzuela]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            121.058951,14.5929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[PL] Warszawa</name>
+        <description><![CDATA[Million Mask March Warsaw, Poland<br>Facebook: https://www.facebook.com/events/1826160747501573/<br>Location and time: Kolumna Zygmunta III Wazy w Warszawie. 6:00 PM - 9:00 PM UTC+01<br>Hosted by: Anonymous Info Army Poland]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.013378,52.247253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[PS] Palestine</name>
+        <description><![CDATA[Million Mask March Palestine<br>Facebook: https://www.facebook.com/events/121683772029533/<br>Location and time: Details on event page!<br>Hosted by: Palestine]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            35.295274,32.85968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[RO] Romania</name>
+        <description><![CDATA[Million Mask March Romania<br>Facebook: https://www.facebook.com/events/2537708909892306/<br>Location and time: (Location unknown, Romania, visit event page). 18:00 UTC+02<br>Hosted by: Anonymous Legion Romania (and 2 other pages)]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            24.96676,45.943161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[UK] London</name>
+        <description><![CDATA[Million Mask March London, United Kingdom<br>Twitter: https://twitter.com/MMM_London<br>Location and time: Trafalgar Square, 6:00 PM<br>Hosted by: MMM London 2018]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -0.128069,51.508039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[UK] Warrington</name>
+        <description><![CDATA[Million Mask March Warrington, United Kingdom<br>Facebook: https://www.facebook.com/events/763047850552245/<br>Location and time: Warrington. 06:00 AM<br>Hosted by: Anonymous UK]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -2.59695,53.390044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[US] Akron, Ohio</name>
+        <description><![CDATA[Million Mask March Akron, Ohio<br>Facebook: https://www.facebook.com/events/1656106097804147/<br>Location and time: Akron Metro Bus - R.t.a. 12 PM - 9 PM EST<br>Hosted by: Anonymous Akron Ohio]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -81.539987,41.049204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[US] Chicago, Illinois</name>
+        <description><![CDATA[Million Mask March Chicago, Illinois<br>Twitter: https://twitter.com/EnergyMau5Freak<br>Organize chat: http://discord.gg/EY9gr6W<br>Location and time: Cloud Gate 201 E Randolph St Chicago, IL 60601. 13:00 CST<br>Hosted by: Anonymous]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.623791,41.88396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[US] Dallas, Texas</name>
+        <description><![CDATA[Million Mask March Dallas, Texas<br>Facebook: https://www.facebook.com/events/567006147064988/<br>Location and time: Klyde Warren Park. 12:00<br>Hosted by: Jody Ladd]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -96.801777,32.789365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[US] Houston, Texas</name>
+        <description><![CDATA[Million Mask March Houston, Texas<br>Facebook: https://www.facebook.com/events/2532685806957119/<br>Location and time: The Water Works in Buffalo Bayou Park. 12:00-21:00 CST<br>Hosted by: Houston Anonymous]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -95.376617,29.762597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[US] Minneapolis, Minnesota</name>
+        <description><![CDATA[Million Mask March Minnesota<br>Facebook: https://www.facebook.com/events/165877260793585/<br>Location and time: Minnesota State Capitol. 11 AM - 8 PM CST<br>Hosted by: Anonymous Twin Cities & Anonymous Twin Ports]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -93.10219,44.953912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[US] New York City</name>
+        <description><![CDATA[Million Mask March New York City, New York<br>Facebook: https://www.facebook.com/events/265036074340637/<br>Location and time: New York Stock Exchange 11 Wall St, New York. 09:00-23:59 EST<br>Hosted by: Sleepless 31337]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -74.011265,40.706877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[US] Orlando, Florida</name>
+        <description><![CDATA[Million Mask March Orlando, Florida<br>Facebook: https://www.facebook.com/events/2232758000340185/<br>Location and time: City of Orlando - Government, 400 S Orange Ave. 11:00 AM<br>Hosted by: Million Mask March Orlando, Florida]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -81.379681,28.537621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[US] Philadelphia, Pennsylvania</name>
+        <description><![CDATA[Million Mask March Philadelphia, Pennsylvania<br>Facebook: https://www.facebook.com/events/963891433775083/<br>Location and time: Thomas Paine Plaza, Philadelphia. 13:00<br>Hosted by: Anonymous Philly & Anonymous Northeast Operations Network - ANON]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -75.163793,39.953819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[US] Seattle, Washington</name>
+        <description><![CDATA[Million Mask March Seattle, Washington<br>Facebook: https://www.facebook.com/events/1847898708628718/<br>Location and time: Westlake Park, 401 Pine St, Seattle. Nov 3 at 2:00 PM - Nov 5 at 12:00 AM PDT<br>Hosted by: Anonymous Hemp Sector Seattle]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -122.337015,47.610957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[US] Tampa, Florida</name>
+        <description><![CDATA[Million Mask March Tampa, Florida<br>Facebook: https://www.facebook.com/events/414955369031032/<br>Location and time: 241 E Madison St. 14:00<br>Hosted by: Million Mask March 2018 Tampa Florida]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -82.458506,27.947931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[VA] Vatican City</name>
+        <description><![CDATA[Million Mask March Vatican City<br>Site: https://millionmaskmarch2018.com<br>Location and time: St. Peter's Basilica Square. 15:00<br>Hosted by: Million Mask March 2018]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.453937,41.902167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[US] Washington DC</name>
+        <description><![CDATA[Million Mask March Washington DC<br>Facebook: https://www.facebook.com/events/2105175676183407/<br>Location and time: McPherson Sq NW. 13:00 EST<br>Hosted by: The Anonymous Legion]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -77.034113,38.901966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
